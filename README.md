@@ -1,4 +1,4 @@
-![YOLO Helmet Detection](https://path-to-your-image.png)  <!-- Replace with a relevant image link -->
+![YOLO Helmet Detection](https://github.com/Ahmad-Ali-Rafique/YOLO-Helmet-Detection/blob/main/HELMET%20DETECTION.png)  <!-- Replace with a relevant image link -->
 
 ## Ahmad Ali Rafique
 
